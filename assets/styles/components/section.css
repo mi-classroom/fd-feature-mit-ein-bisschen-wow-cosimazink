@@ -11,6 +11,7 @@ section {
   padding: var(--size-l);
 
   --border-color: var(--color-darkest);
+  background-color: var(--color-lighter);
 
   &.snap-in{
     scroll-snap-align: start;
